@@ -7,8 +7,13 @@ body{
   color: darkred
 }
 hr{
-  border-color: crimson
+  border-color: crimson ;
 }
 u{
   text-decoration-color: darkred
+}
+.boxed-text {
+  border: 1px solid darkred; /* adjust border style and color as needed */
+  padding: 10px; /* add some space inside the box */
+  background-color: blanchedalmond; /* optional background color */
 }
